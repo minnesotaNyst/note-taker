@@ -16,7 +16,7 @@ router.post('/notes', (req, res) => {
 		res
 			.status(400)
 			.send(
-				'The note is not properly formatted. Make sure you enter a title and text.'
+				'Please make sure you enter a title and text for your note.'
 			);
 	} else {
 		// if validation is successful, it passes req.body and notes array to addNewNote
