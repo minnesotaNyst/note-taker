@@ -9,6 +9,7 @@ const apiRoutes = require('./routes/apiRoutes');
 const app = express();
 const PORT = process.env.PORT || 3003;
 
+// more express.js middleware that instructs the server to make certain files readily availabe
 // use all assests in the public folder for use with the htmlRoutes
 app.use(express.static('public'));
 
