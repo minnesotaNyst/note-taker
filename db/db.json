@@ -2,9 +2,14 @@
 	"notes": [
 		{
 			"title": "Note Taking Application",
-			"text": "This is a note taking applications",
-			"id": 5
+			"text": "This is a note taking application",
+			"id": 1
+		},
+		{
+			"title": "Add New Note",
+			"text": "Add new note...",
+			"id": 2
 		}
 	],
-	"nextId": 6
+	"nextId": 3
 }
