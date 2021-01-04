@@ -20,9 +20,9 @@ URL: https://minnesotanyst.github.io/note-taker/
 ## Usage
 
 ```
-AS A manager
-I WANT to generate a webpage that displays my team's basic info
-SO THAT I have quick access to their emails and GitHub profiles
+AS A small business owner
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
 ## NPM Packages
