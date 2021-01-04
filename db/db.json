@@ -1,30 +1,30 @@
 {
-  "notes": [
-    {
-      "title": "Note Taking Application",
-      "text": "This is a note taking application",
-      "id": 1
-    },
-    {
-      "title": "Add New Note",
-      "text": "Add new note...",
-      "id": 2
-    },
-    {
-      "title": "Add another",
-      "text": "Here is another note...",
-      "id": 3
-    },
-    {
-      "title": "Yet again..",
-      "text": "again...",
-      "id": 4
-    },
-    {
-      "title": "Yeti",
-      "text": "Cooler...",
-      "id": 5
-    }
-  ],
-  "nextId": 6
+	"notes": [
+		{
+			"title": "Note Taking Application",
+			"text": "This is a note taking application",
+			"id": 1
+		},
+		{
+			"title": "Add New Note",
+			"text": "Add new note...",
+			"id": 2
+		},
+		{
+			"title": "Add another",
+			"text": "Here is another note...",
+			"id": 3
+		},
+		{
+			"title": "Yet again..",
+			"text": "again...",
+			"id": 4
+		},
+		{
+			"title": "Yeti",
+			"text": "Cooler...",
+			"id": 5
+		}
+	],
+	"nextId": 6
 }
