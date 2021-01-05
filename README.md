@@ -43,4 +43,4 @@ Today, as a motivated and goal oriented individual I embrace challenges, strive 
 
 ## Screenshot
 
-![deployed screenshot](./assets/images/#.png)
+![deployed screenshot](./assets/images/note-taker.png)

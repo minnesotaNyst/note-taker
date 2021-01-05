@@ -9,15 +9,15 @@ router.get('/notes', (req, res) => {
 
 // `POST /api/notes` should receive a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client
 router.post('/notes', (req, res) => {
-	// This takes a unique id from the property "nextId"
+	// this uses a unique id from nextId - idea came from Craig Bennett
 	req.body.id = nextId;
-	// validates note format
+	// validates the format of the note
 	if (!validateNote(req.body)) {
 		res
 			.status(400)
 			.send('Please make sure you enter a title and text for your note.');
 	} else {
-		// if validation is successful, it passes req.body and notes array to addNewNote
+		// if successful, pass req/body and notes into addNewNote
 		const note = addNewNote(req.body, notes);
 		res.json(req.body);
 	}
