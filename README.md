@@ -6,7 +6,9 @@ This application allows the end user enter and save notes on a server deployed w
 
 ## Deployed
 
-URL: https://minnesotanyst.github.io/note-taker/
+Github URL: https://minnesotanyst.github.io/note-taker/
+
+Heroku: https://powerful-mountain-72932.herokuapp.com/
 
 ### Table of Contents
 
